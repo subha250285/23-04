@@ -1,0 +1,30 @@
+1- login to jenkins
+2- new item
+3- pipeline
+4- build triggers add branch and repo
+	pull SCM cron job after 2 min H/02
+5-pipeline
+6-build now
+
+ 
+Install Jenkins and Required Plugins
+
+Create a New Pipeline Job
+
+Connect to Source Code Repository (e.g., GitHub)
+
+Create a Jenkinsfile in Your Repo
+
+Define Pipeline Stages (Build, Test, Deploy)
+
+Configure Pipeline Triggers (e.g., Git webhook)
+
+Run the Pipeline
+
+Monitor Pipeline Execution and Logs
+
+Send Notifications (optional)
+
+Secure Secrets Using Jenkins Credentials
+
+
